@@ -1,1 +1,1 @@
-# project_1
+# solar_power
